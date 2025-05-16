@@ -579,3 +579,13 @@ button{
 background: var(--color-accent-active);
 transition: 0.3s;
 }
+.company{
+  padding: 50px 0;
+}
+.company_wrap{
+display: flex;
+justify-content: space-between;
+}
+.company_logo{
+
+}
